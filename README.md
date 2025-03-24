@@ -2,6 +2,7 @@
 基于避免被网站屏蔽的考虑，添加了请求间隔和随机代理IP的代码，优化了原代码性能。
 # 感谢以下项目
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hect0x7&repo=JMComic-Crawler-Python)]([https://github.com/tonquer/JMComic-qt](https://github.com/hect0x7/JMComic-Crawler-Python)https://github.com/hect0x7/JMComic-Crawler-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salikx&repo=image2pdf)](https://github.com/salikx/image2pdf)
 # 功能介绍
 将jmcomic里车号对应的本子下载并自动转化为pdf格式。
 # 用法说明
